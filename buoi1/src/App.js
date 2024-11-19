@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <Hello />
-      <HelloPerson name= "Phạm Tiến" />
+      <HelloPerson name= "Tsugikuni Nemo" />
       <Header />
       <HelloNEMO />
       <Car />
